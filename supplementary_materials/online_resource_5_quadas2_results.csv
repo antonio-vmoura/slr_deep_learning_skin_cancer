@@ -1,0 +1,255 @@
+Document Title,QUADAS_Patient_Selection,QUADAS_Index_Test,QUADAS_Reference_Standard,QUADAS_Flow_and_Timing
+"Deep learning, sparse coding, and SVM for melanoma recognition in dermoscopy images",High Risk,Low Risk,Low Risk,Low Risk / Unclear
+Melanoma detection by analysis of clinical images using convolutional neural network,Unclear,Unclear,Low Risk,Low Risk / Unclear
+Deep features to classify skin lesions,Unclear,Unclear,Unclear,Low Risk / Unclear
+Automatic Skin Lesion Segmentation Using Deep Fully Convolutional Networks with Jaccard Distance,High Risk,Unclear,Unclear,Low Risk / Unclear
+Handles imbalance via a multi-stage approach where later stages refine boundaries from coarse initial masks,High Risk,Unclear,Unclear,Low Risk / Unclear
+Deep learning ensembles for melanoma recognition in dermoscopy images,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Skin lesion classification from dermoscopic images using deep learning techniques,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Deep Bayesian active learning with image data,High Risk,Unclear,Unclear,Low Risk / Unclear
+"Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble",High Risk,Unclear,Unclear,Low Risk / Unclear
+Automatic Skin Lesion Analysis using Large-scale Dermoscopy Images and Deep Residual Networks,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Nuclei Segmentation with Recurrent Residual Convolutional Neural Networks based U-Net (R2U-Net),Low Risk,Unclear,Low Risk,Low Risk / Unclear
+Multimodal skin lesion classification using deep learning,Low Risk,Unclear,Low Risk,Low Risk / Unclear
+Skin lesion classification with ensembles of deep convolutional neural networks,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin lesion segmentation in dermoscopy images via deep full resolution convolutional networks,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Cancer Classification using Deep Learning and Transfer Learning (HAS ONLY THE ABSTRACT SECTION),High Risk,Unclear,Unclear,Low Risk / Unclear
+Data augmentation for improving deep learning in image classification problem,High Risk,Unclear,Low Risk,Low Risk / Unclear
+The skin cancer classification using deep convolutional neural network,Unclear,Unclear,Unclear,Low Risk / Unclear
+"Skin lesion analysis toward melanoma detection: A challenge at the 2017 International symposium on biomedical imaging (ISBI), hosted by the international skin imaging collaboration (ISIC)",High Risk,Unclear,Unclear,High Risk
+Skin lesion analysis towards melanoma detection using deep learning network,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Association between Surgical Skin Markings in Dermoscopic Images and Diagnostic Performance of a Deep Learning Convolutional Neural Network for Melanoma Recognition,Unclear,Unclear,High Risk,High Risk
+Superior skin cancer classification by the combination of human and artificial intelligence,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+Bi-directional ConvLSTM U-net with densley connected convolutions,High Risk,Unclear,Unclear,Low Risk / Unclear
+Systematic outperformance of 112 dermatologists in multiclass skin cancer image classification by convolutional neural networks,High Risk,Unclear,Low Risk,High Risk
+Region Extraction and Classification of Skin Cancer: A Heterogeneous framework of Deep CNN Features Fusion and Reduction,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Skin lesion segmentation in dermoscopic images with combination of yolo and grabcut algorithm,High Risk,Unclear,Unclear,Low Risk / Unclear
+Efficient skin lesion segmentation using separable-Unet with stochastic weight averaging,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Attention Residual Learning for Skin Lesion Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Automated deep learning design for medical image classification by health-care professionals with no coding experience: a feasibility study,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Deep neural networks are superior to dermatologists in melanoma image classification,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+Convolutional Neural Networks Using MobileNet for Skin Lesion Classification,High Risk,High Risk,Unclear,Low Risk / Unclear
+A comparative study of deep learning architectures on melanoma detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Lesion Classification Using Hybrid Deep Neural Networks,High Risk,Unclear,Unclear,Low Risk / Unclear
+Improving Dermoscopic Image Segmentation With Enhanced Convolutional-Deconvolutional Networks,Unclear,Unclear,Unclear,Low Risk / Unclear
+Melanoma lesion detection and segmentation using deep region based convolutional neural network and fuzzy C-means clustering,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Melanoma Recognition in Dermoscopy Images via Aggregated Deep Convolutional Features,Unclear,Unclear,Unclear,Low Risk / Unclear
+Focusnet: An attention-based fully convolutional network for medical image segmentation,Unclear,Unclear,Unclear,Low Risk / Unclear
+"Deep-learning-based, computer-aided classifier developed with a small dataset of clinical images surpasses board-certified dermatologists in skin tumour diagnosis",Unclear,Unclear,Low Risk,Low Risk / Unclear
+Skin Lesion Classification Using Convolutional Neural Network with Novel Regularizer,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Step-wise integration of deep class-specific learning for dermoscopic image segmentation,High Risk,High Risk,Unclear,Low Risk / Unclear
+Fusing fine-tuned deep features for skin lesion classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Recurrent residual U-Net for medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Transformation Consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Semi-Supervised Medical Image Classification With Relation-Driven Self-Ensembling Model,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A GAN-based image synthesis method for skin lesion classification,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Cpfnet: Context pyramid fusion network for medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin disease detection and segmentation using dynamic graph cut algorithm and classification through Naive Bayes classifier,High Risk,Unclear,Unclear,Low Risk / Unclear
+PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones,Low Risk,Unclear,Low Risk,Low Risk / Unclear
+A multi-class skin Cancer classification using deep convolutional neural networks,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Transfer learning using a multi-scale and multi-network ensemble for skin lesion classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Augmented Intelligence Dermatology: Deep Neural Networks Empower Medical Professionals in Diagnosing Skin Cancer and Predicting Treatment Options for 134 Skin Disorders,Low Risk,Unclear,Low Risk,High Risk
+Human–computer collaboration for skin cancer recognition,High Risk,Unclear,Low Risk,Low Risk / Unclear
+The development of a skin cancer classification system for pigmented skin lesions using deep learning,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Skin lesion segmentation via generative adversarial networks with dual discriminators,High Risk,Unclear,Unclear,Low Risk / Unclear
+A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Multiple skin lesions diagnostics via integrated deep convolutional networks for segmentation and classification,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+Dense-unet: A novel multiphoton in vivo cellular image segmentation model based on a convolutional neural network,Unclear,Unclear,Low Risk,Low Risk / Unclear
+A deep learning system for differential diagnosis of skin diseases,Unclear,Unclear,Low Risk,Low Risk / Unclear
+DSNet: Automatic dermoscopic skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin lesion segmentation using high-resolution convolutional neural network,High Risk,Unclear,Unclear,Low Risk / Unclear
+Melanoma and nevus skin lesion classification using handcraft and deep learning feature fusion via mutual information measures,High Risk,Unclear,Unclear,Low Risk / Unclear
+Multi-class multi-level classification algorithm for skin lesions classification using machine learning techniques,Unclear,Unclear,Unclear,Low Risk / Unclear
+Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Lesions Classification into Eight Classes for ISIC 2019 Using Deep Convolutional Neural Network and Transfer Learning,High Risk,Unclear,Low Risk,Low Risk / Unclear
+The impact of patient clinical information on automated skin cancer detection,Low Risk,Unclear,Unclear,High Risk
+Automatic Skin Cancer Detection in Dermoscopy Images Based on Ensemble Lightweight Deep Learning Network,Unclear,Unclear,Unclear,Low Risk / Unclear
+Skin Lesion Segmentation in Dermoscopic Images with Ensemble Deep Learning Methods,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Computer-aided diagnosis of skin cancer based on soft computing techniques,Unclear,Unclear,Unclear,Low Risk / Unclear
+Deep learning-based system for automatic melanoma detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+FCN-Based DenseNet Framework for Automated Detection and Classification of Skin Lesions in Dermoscopy Images,High Risk,Unclear,Unclear,Low Risk / Unclear
+Region-of-Interest Based Transfer Learning Assisted Framework for Skin Cancer Detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin cancer diagnosis based on optimized convolutional neural network,Unclear,Unclear,Unclear,Low Risk / Unclear
+Skin cancer detection: Applying a deep learning based model driven architecture in the cloud for classifying dermal cell images,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Multi-Class Skin Lesion Detection and Classification via Teledermatology,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Deep learning-based transfer learning for classification of skin cancer,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Universal adversarial attacks on deep neural networks for medical image classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+A Convolutional Neural Network Framework for Accurate Skin Cancer Detection,High Risk,High Risk,Unclear,Low Risk / Unclear
+An Attention-Based Mechanism to Combine Images and Metadata in Deep Learning Models Applied to Skin Cancer Classification,High Risk,Unclear,Low Risk,High Risk
+A novel melanoma prediction model for imbalanced data using optimized SqueezeNet by bald eagle search optimization,High Risk,Low Risk,Unclear,Low Risk / Unclear
+Uncertainty quantification in skin cancer classification using three-way decision-based Bayesian deep learning,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin cancer disease images classification using deep learning solutions,High Risk,Unclear,Unclear,Low Risk / Unclear
+An internet of health things-driven deep learning framework for detection and classification of skin cancer using transfer learning,High Risk,Unclear,Unclear,Low Risk / Unclear
+Diagnosis of skin diseases in the era of deep learning and mobile technology,Unclear,Unclear,Unclear,Low Risk / Unclear
+Development and Assessment of an Artificial Intelligence-Based Tool for Skin Condition Diagnosis by Primary Care Physicians and Nurse Practitioners in Teledermatology Practices,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Novel transfer learning approach for medical imaging with limited labeled data,High Risk,Unclear,Unclear,Low Risk / Unclear
+Classification of skin disease using deep learning neural networks with mobilenet v2 and lstm,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Data augmentation for skin lesion using self-attention based progressive generative adversarial network,High Risk,Unclear,Low Risk,Low Risk / Unclear
+"Intelligent skin cancer detection applying autoencoder, MobileNetV2 and spiking neural networks",High Risk,Unclear,Unclear,Low Risk / Unclear
+Automated multi-class classification of skin lesions through deep convolutional neural network with dermoscopic images,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Diagnosis of skin cancer using machine learning techniques,Unclear,Unclear,Unclear,Low Risk / Unclear
+Deep learning based an automated skin lesion segmentation and intelligent classification model,High Risk,Unclear,Unclear,Low Risk / Unclear
+"Ascu-net: Attention gate, spatial and channel attention u-net for skin lesion segmentation",High Risk,Unclear,Unclear,Low Risk / Unclear
+Attributes based skin lesion detection and recognition: A mask RCNN and transfer learning-based deep learning framework,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Transformation-Consistent Self-Ensembling Model for Semisupervised Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Interpretable deep learning systems for multi-class segmentation and classification of non-melanoma skin cancer,Unclear,Unclear,Low Risk,Low Risk / Unclear
+CA-Net: Comprehensive Attention Convolutional Neural Networks for Explainable Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Explainable skin lesion diagnosis using taxonomies,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin lesion segmentation and multiclass classification using deep learning features and improved moth flame optimization,High Risk,Unclear,Unclear,Low Risk / Unclear
+An approach for multiclass skin lesion classification based on ensemble learning,High Risk,Unclear,Low Risk,Low Risk / Unclear
+TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Automated Skin Lesion Segmentation Via an Adaptive Dual Attention Module,High Risk,Unclear,Unclear,Low Risk / Unclear
+Identification of Melanoma from Hyperspectral Pathology Image Using 3D Convolutional Networks,Unclear,Unclear,Low Risk,Low Risk / Unclear
+Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Multiclass skin cancer classification using EfficientNets – a first step towards preventing skin cancer,High Risk,Unclear,Low Risk,High Risk
+Melanoma Detection Using Deep Learning-Based Classifications,High Risk,Unclear,Unclear,Low Risk / Unclear
+An improved transformer network for skin cancer classification,High Risk,High Risk,Low Risk,Low Risk / Unclear
+An efficient image segmentation method for skin cancer imaging using improved golden jackal optimization algorithm,High Risk,Unclear,Unclear,Low Risk / Unclear
+Automatic Malignant and Benign Skin Cancer Classification Using a Hybrid Deep Learning Approach,High Risk,Unclear,Unclear,Low Risk / Unclear
+Designing a grey wolf optimization based hyper-parameter optimized convolutional neural network classifier for skin cancer detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+An Efficient Deep Learning-Based Skin Cancer Classifier for an Imbalanced Dataset,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+SCDNet: A Deep Learning-Based Framework for the Multiclassification of Skin Cancer Using Dermoscopy Images,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin lesion segmentation and classification: A unified framework of deep neural network features fusion and selection,High Risk,Unclear,Unclear,Low Risk / Unclear
+MFSNet: A multi focus segmentation network for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Detection of Skin Cancer Based on Skin Lesion Images Using Deep Learning,High Risk,Unclear,Unclear,Low Risk / Unclear
+On the Automatic Detection and Classification of Skin Cancer Using Deep Transfer Learning,High Risk,Unclear,Unclear,Low Risk / Unclear
+An Enhanced Transfer Learning Based Classification for Diagnosis of Skin Cancer,Unclear,High Risk,Low Risk,Low Risk / Unclear
+Skin Lesion Segmentation Based on Vision Transformers and Convolutional Neural Networks—A Comparative Study,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Cancer Disease Detection using Transfer Learning Technique,High Risk,High Risk,Unclear,Low Risk / Unclear
+Improving Medical Images Classification with Label Noise Using Dual-Uncertainty Estimation,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Validation of artificial intelligence prediction models for skin cancer diagnosis using dermoscopy images: the 2019 International Skin Imaging Collaboration Grand Challenge,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Deep Learning Methods for Accurate Skin Cancer Recognition and Mobile Application,High Risk,Unclear,Unclear,Low Risk / Unclear
+MSRF-Net: A Multi-Scale Residual Fusion Network for Biomedical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Single Model Deep Learning on Imbalanced Small Datasets for Skin Lesion Classification,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Semi-supervised learning for medical image classification using imbalanced training data,High Risk,Unclear,Unclear,Low Risk / Unclear
+Fully transformer network for skin lesion analysis,High Risk,Unclear,Unclear,Low Risk / Unclear
+Machine Learning and Deep Learning Algorithms for Skin Cancer Classification from Dermoscopic Images,High Risk,Unclear,Unclear,Low Risk / Unclear
+W-net and inception residual network for skin lesion segmentation and classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+InSiNet: a deep convolutional approach to skin cancer detection and segmentation,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A Non-Invasive Interpretable Diagnosis of Melanoma Skin Cancer Using Deep Learning and Ensemble Stacking of Machine Learning Models,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+Classification of human chronic inflammatory skin disease based on single-cell immune profiling,Unclear,Low Risk,Low Risk,Low Risk / Unclear
+Multiclass Skin Lesion Classification Using a Novel Lightweight Deep Learning Framework for Smart Healthcare,High Risk,Unclear,Unclear,Low Risk / Unclear
+Eff2Net: An efficient channel attention-based convolutional neural network for skin disease classification,Low Risk,Unclear,Unclear,Low Risk / Unclear
+Melanoma Classification Using a Novel Deep Convolutional Neural Network with Dermoscopic Images,High Risk,Low Risk,Unclear,Low Risk / Unclear
+FusionM4Net: A multi-stage multi-modal learning algorithm for multi-label skin lesion classification,Unclear,Unclear,Unclear,Low Risk / Unclear
+Multi-features extraction based on deep learning for skin lesion classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Modified U-NET Architecture for Segmentation of Skin Lesion,High Risk,Unclear,Unclear,Low Risk / Unclear
+FAT-Net: Feature adaptive transformers for automated skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin cancer detection from dermoscopic images using deep learning and fuzzy k-means clustering,High Risk,Unclear,Low Risk,Low Risk / Unclear
+"Analysis of the ISIC image datasets: Usage, benchmarks and recommendations",High Risk,Unclear,Low Risk,Low Risk / Unclear
+Deep learning-based skin lesion diagnosis model using dermoscopic images,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Cancer Detection Using Combined Decision of Deep Learners,High Risk,Unclear,Unclear,Low Risk / Unclear
+"DermoExpert: Skin lesion classification using a hybrid convolutional neural network through segmentation, transfer learning, and augmentation",High Risk,Unclear,Low Risk,Low Risk / Unclear
+Dermatologist-Level Classification of Skin Cancer Using Cascaded Ensembling of Convolutional Neural Network and Handcrafted Features Based Deep Neural Network,High Risk,Unclear,Unclear,Low Risk / Unclear
+Ms RED: A novel multi-scale residual encoding and decoding network for skin lesion segmentation,High Risk,Unclear,Low Risk,Low Risk / Unclear
+MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+ACPL: Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis,High Risk,Unclear,Unclear,Low Risk / Unclear
+Finding and removing Clever Hans: Using explanation methods to debug and improve deep models,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Skin-Net: a novel deep residual network for skin lesions classification using multilevel feature extraction and cross-channel correlation with detection of outlier,High Risk,Unclear,Unclear,Low Risk / Unclear
+A Novel Vision Transformer Model for Skin Cancer Classification,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A Novel framework of Adaptive fuzzy-GLCM Segmentation and Fuzzy with Capsules Network (F-CapsNet) Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+EIU-Net: Enhanced feature extraction and improved skip connections in U-Net for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Classification of skin cancer using adjustable and fully convolutional capsule layers,High Risk,Unclear,Low Risk,Low Risk / Unclear
+MSCA-Net: Multi-scale contextual attention network for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Multi-Class Skin Cancer Classification Using Vision Transformer Networks and Convolutional Neural Network-Based Pre-Trained Models,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin cancer detection using ensemble of machine learning and deep learning techniques,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A multimodal transformer to fuse images and metadata for skin disease classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin Cancer Classification Using Deep Spiking Neural Network,High Risk,Unclear,Low Risk,Low Risk / Unclear
+XBound-Former: Toward Cross-Scale Boundary Modeling in Transformers,High Risk,Low Risk,Low Risk,Low Risk / Unclear
+The effect of choosing optimizer algorithms to improve computer vision tasks: a comparative study,High Risk,Unclear,Unclear,Low Risk / Unclear
+Classification of skin cancer from dermoscopic images using deep neural network architectures,High Risk,Unclear,Unclear,Low Risk / Unclear
+Deep transfer learning approaches for Monkeypox disease diagnosis,Unclear,Unclear,Unclear,Low Risk / Unclear
+MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification,Unclear,Unclear,Unclear,Low Risk / Unclear
+GFANet: Gated Fusion Attention Network for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Multiclass skin lesion localization and classification using deep learning based features fusion and selection framework for smart healthcare,High Risk,Unclear,Unclear,Low Risk / Unclear
+Fusion of U-Net and CNN model for segmentation and classification of skin lesion from dermoscopy images,High Risk,Unclear,Unclear,Low Risk / Unclear
+Multiclass skin lesion classification in dermoscopic images using swin transformer model,High Risk,Unclear,Unclear,Low Risk / Unclear
+SSD-KD: A self-supervised diverse knowledge distillation method for lightweight skin lesion classification using dermoscopic images,High Risk,Low Risk,Unclear,Low Risk / Unclear
+Monkeypox Detection Using CNN with Transfer Learning,Unclear,Low Risk,Unclear,Low Risk / Unclear
+Skin cancer diagnosis based on deep transfer learning and sparrow search algorithm,High Risk,Low Risk,Unclear,Low Risk / Unclear
+DeepSkin: A Deep Learning Approach for Skin Cancer Classification,High Risk,Unclear,Low Risk,Low Risk / Unclear
+DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+ICL-Net: Global and Local Inter-Pixel Correlations Learning Network for Skin Lesion Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+EGE-UNet: An Efficient Group Enhanced UNet for Skin Lesion Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Semantic segmentation in medical images through transfused convolution and transformer networks,High Risk,Unclear,Unclear,Low Risk / Unclear
+DAE-Former: Dual Attention-Guided Efficient Transformer for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Evaluation of denoising techniques to remove speckle and Gaussian noise from dermoscopy images,High Risk,Unclear,Unclear,Low Risk / Unclear
+Deep Learning based Model for Detection of Vitiligo Skin Disease using Pretrained Inception V3,Low Risk,Unclear,Low Risk,Low Risk / Unclear
+SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model,High Risk,Unclear,Unclear,Low Risk / Unclear
+Enhancing Medical Image Segmentation with TransCeption: A Multi-Scale Feature Fusion Approach,High Risk,Unclear,Unclear,Low Risk / Unclear
+BCN20000: Dermoscopic Lesions in the Wild,Low Risk,Unclear,Unclear,Low Risk / Unclear
+Enhancing Skin Cancer Diagnosis Using Swin Transformer with Hybrid Shifted Window-Based Multi-head Self-attention and SwiGLU-Based MLP,High Risk,High Risk,Low Risk,Low Risk / Unclear
+I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation,High Risk,Unclear,Unclear,High Risk
+GAN based augmentation using a hybrid loss function for dermoscopy images,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A hybrid deep learning skin cancer prediction framework,High Risk,Unclear,Unclear,Low Risk / Unclear
+Skin-CAD: Explainable deep learning classification of skin cancer from dermoscopic images by feature selection of dual high-level CNNs features and transfer learning,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A novel end-to-end deep convolutional neural network based skin lesion classification framework,High Risk,Unclear,Unclear,Low Risk / Unclear
+Explainable deep inherent learning for multi-classes skin lesion classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Diagnosis of skin cancer using VGG16 and VGG19 based transfer learning models,High Risk,High Risk,Unclear,Low Risk / Unclear
+A deep learning outline aimed at prompt skin cancer detection utilizing gated recurrent unit networks and improved orca predation algorithm,High Risk,Unclear,Unclear,Low Risk / Unclear
+SNC_Net: Skin Cancer Detection by Integrating Handcrafted and Deep Learning-Based Features Using Dermoscopy Images,High Risk,Unclear,Low Risk,Low Risk / Unclear
+SwinPA-Net: Swin Transformer-Based Multiscale Feature Pyramid Aggregation Network for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Understanding skin color bias in deep learning-based skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+DCENSnet: A new deep convolutional ensemble network for skin cancer classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+MTANet: Multi-Task Attention Network for Automatic Medical Image Segmentation and Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+A novel approach for human diseases prediction using nature inspired computing & machine learning approach,Unclear,Unclear,Unclear,Low Risk / Unclear
+MHorUNet: High-order spatial interaction UNet for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation,High Risk,Unclear,Unclear,High Risk
+Skin lesion segmentation and recognition using multichannel saliency estimation and M-SVM on selected serially fused features,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A GAN-Based Data Augmentation Method for Imbalanced Multi-Class Skin Lesion Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+MAGRes-UNet: Improved Medical Image Segmentation Through a Deep Learning Paradigm of Multi-Attention Gated Residual U-Net,High Risk,Unclear,Unclear,Low Risk / Unclear
+Intelligent fusion-assisted skin lesion localization and classification for smart healthcare,High Risk,Unclear,Unclear,Low Risk / Unclear
+DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation,High Risk,Unclear,Unclear,High Risk
+HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin lesion segmentation,High Risk,Unclear,Low Risk,High Risk
+HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Quantum computational infusion in extreme learning machines for early multi-cancer detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+A novel hybrid ConvNeXt-based approach for enhanced skin lesion classification,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A novel CNN-ViT-based deep learning model for early skin cancer diagnosis,High Risk,Unclear,Unclear,Low Risk / Unclear
+MCI-GAN: a novel GAN with identity blocks inspired by menstrual cycle behavior for missing pixel imputation,High Risk,High Risk,Unclear,High Risk
+Enhancing skin disease classification leveraging transformer-based deep learning architectures and explainable AI,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Quadruple strategy-driven hiking optimization algorithm for low and high-dimensional feature selection and real-world skin cancer classification,Low Risk,Unclear,Unclear,Low Risk / Unclear
+BDFormer: Boundary-aware dual-decoder transformer for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+PMFSNet: Polarized multi-scale feature self-attention network for lightweight medical image segmentation,High Risk,High Risk,Unclear,Low Risk / Unclear
+Collaborative transformer U-shaped network for medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Exploring Pre-Trained Models for Skin Cancer Classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Deep ensemble model for skin cancer classification with improved feature set,High Risk,Low Risk,Unclear,Low Risk / Unclear
+Automatic skin lesion segmentation using attention residual U-Net with improved encoder-decoder architecture,High Risk,Unclear,Unclear,Low Risk / Unclear
+SLP-Net:An efficient lightweight network for segmentation of skin lesions,High Risk,Unclear,Unclear,Low Risk / Unclear
+YOLOSkin: A fusion framework for improved skin cancer diagnosis using YOLO detectors on Nvidia Jetson Nano,High Risk,Unclear,Unclear,Low Risk / Unclear
+EffiCAT: A synergistic approach to skin disease classification through multi-dataset fusion and attention mechanisms,High Risk,Unclear,Unclear,Low Risk / Unclear
+Enhanced Skin Cancer Diagnosis via Deep Convolutional Neural Networks with Ensemble Learning,High Risk,Unclear,Low Risk,Low Risk / Unclear
+Advanced Deep Learning Models for Melanoma Diagnosis in Computer-Aided Skin Cancer Detection,High Risk,Unclear,Unclear,Low Risk / Unclear
+Pigmented skin disease classification via deep learning with an attention mechanism,High Risk,Unclear,Unclear,Low Risk / Unclear
+DSU-Net: Dual-Stage U-Net based on CNN and Transformer for skin lesion segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+A Trustworthy Framework for Skin Cancer Detection Using a CNN with a Modified Attention Mechanism,High Risk,Unclear,Unclear,Low Risk / Unclear
+A skin lesion segmentation network with edge and body fusion,High Risk,Unclear,Unclear,Low Risk / Unclear
+Exploring adversarial deep learning for fusion in multi-color channel skin detection applications,Unclear,High Risk,Unclear,Low Risk / Unclear
+Dual-scale enhanced and cross-generative consistency learning for semi-supervised medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Melanoma Skin Cancer Detection Using Deep Learning Methods and Binary GWO Algorithm,High Risk,High Risk,Unclear,Low Risk / Unclear
+Optimize brain tumor multiclass classification with manta ray foraging and improved residual block techniques,High Risk,Low Risk,Unclear,Low Risk / Unclear
+DU-Net+: a fully convolutional neural network architecture for semantic segmentation of skin lesions,High Risk,Unclear,Unclear,Low Risk / Unclear
+Enhancing Skin Cancer Detection with Multimodal Data Integration: A Combined Approach Using Images and Clinical Notes,High Risk,High Risk,Low Risk,Low Risk / Unclear
+Enhancing Melanoma Diagnostic: Harnessing the Synergy of AI and CNNs for Groundbreaking Advances in Early Melanoma Detection and Treatment Strategies,High Risk,Unclear,Low Risk,Low Risk / Unclear
+A Geometric algebra-enhanced network for skin lesion detection with diagnostic prior,High Risk,Unclear,Unclear,Low Risk / Unclear
+A Hybrid Deep Learning Approach for Skin Lesion Segmentation With Dual Encoders and Channel-Wise Attention,High Risk,Unclear,Unclear,Low Risk / Unclear
+Enhancing the performance of CNN models for pneumonia and skin cancer detection using novel fractional activation function,High Risk,Unclear,Unclear,Low Risk / Unclear
+Unleashing the power of Manta Rays Foraging Optimizer: A novel approach for hyper-parameter optimization in skin cancer classification,High Risk,Low Risk,Unclear,Low Risk / Unclear
+A hybrid feature fusion deep learning framework for multi-source medical image analysis,High Risk,Unclear,Unclear,Low Risk / Unclear
+CSWin-UNet: Transformer UNet with cross-shaped windows for medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+DiffMIC-v2: Medical Image Classification via Improved Diffusion Network,High Risk,Unclear,Unclear,Low Risk / Unclear
+Next-generation approach to skin disorder prediction employing hybrid deep transfer learning,Unclear,High Risk,Unclear,Low Risk / Unclear
+Multi-feature Fusion Deep Network for Skin Disease Diagnosis,High Risk,Unclear,Unclear,Low Risk / Unclear
+Improved CNN architecture for automated classification of skin diseases,Unclear,Unclear,Unclear,Low Risk / Unclear
+On-patient medical record and mRNA therapeutics using intradermal microneedles,Unclear,Unclear,Unclear,Low Risk / Unclear
+An innovative deep learning framework for skin cancer detection employing ConvNeXtV2 and focal self-attention mechanisms,High Risk,High Risk,Unclear,Low Risk / Unclear
+Temporal integration of ResNet features with LSTM for enhanced skin lesion classification,High Risk,Unclear,Unclear,Low Risk / Unclear
+Dermo classify: A dermatologist skin disease detection and classification using DCNN,High Risk,High Risk,Low Risk,Low Risk / Unclear
+U-Net V2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation,High Risk,Low Risk,Unclear,Low Risk / Unclear
+Multimodal Biomedical Image Segmentation by Using Multi-Path U-Net,High Risk,Unclear,Unclear,Low Risk / Unclear
+MixFormer: A Mixed CNN-Transformer Backbone for Medical Image Segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+Simple is what you need for efficient and accurate medical image segmentation,High Risk,Unclear,Unclear,Low Risk / Unclear
+ASP-VMUNet: Atrous Shifted Parallel Vision Mamba U-Net for Skin Lesion Segmentation,High Risk,Unclear,Unclear,High Risk
+Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free,High Risk,Unclear,Low Risk,Low Risk / Unclear
