@@ -1,8 +1,6 @@
 # Supplementary Information
 
-This document contains the overview of the Supplementary Information and 
-research datasets accompanying the manuscript "Deep Learning for Skin Cancer 
-Image Analysis: A Systematic Literature Review", submitted to the Computers in Biology and Medicine.
+This document contains the overview of the Supplementary Information and research datasets accompanying the manuscript "Deep Learning for Skin Cancer Image Analysis: A Systematic Literature Review", submitted to the Image and Vision Computing.
 
 ## Files Overview
 
