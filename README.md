@@ -1,6 +1,6 @@
 # Supplementary Information
 
-This document contains the overview of the Supplementary Information and research datasets accompanying the manuscript "Deep Learning for Skin Cancer Image Analysis: A Systematic Literature Review", submitted to the Image and Vision Computing.
+This document contains the overview of the Supplementary Information and research datasets accompanying the manuscript "Deep Learning for Skin Cancer Image Analysis: A Systematic Literature Review", submitted to the Informatics in Medicine Unlocked.
 
 ## Files Overview
 
@@ -10,7 +10,7 @@ This document contains the overview of the Supplementary Information and researc
 
 **online_resource_2_excluded_reports.csv**
 
-* **Description:** Excluded and Unretrieved Studies. A complete list of the 56 reports that were formally excluded during the full-text eligibility assessment, including the specific reasons for exclusion.
+* **Description:** Excluded and Unretrieved Studies. A complete list of the 76 reports that were formally excluded during the full-text eligibility assessment, including the specific reasons for exclusion.
 
 **online_resource_3_llm_prompt.pdf**
 
@@ -18,11 +18,11 @@ This document contains the overview of the Supplementary Information and researc
 
 **online_resource_4_included_studies.csv**
 
-* **Description:** Characteristics of Included Primary Studies. A comprehensive dataset outlining the extracted variables for all 254 included primary studies (e.g., computational tasks, datasets, base deep learning architectures, and primary evaluation metrics).
+* **Description:** Characteristics of Included Primary Studies. A comprehensive dataset outlining the extracted variables for all 234 included primary studies (e.g., computational tasks, datasets, base deep learning architectures, and primary evaluation metrics).
 
 **online_resource_5_quadas2_results.csv**
 
-* **Description:** QUADAS-2 Risk of Bias Assessment. The domain-level results of the methodological quality and risk of bias assessment conducted for each of the 254 included studies using the adapted QUADAS-2 tool.
+* **Description:** QUADAS-2 Risk of Bias Assessment. The domain-level results of the methodological quality and risk of bias assessment conducted for each of the 234 included studies using the adapted QUADAS-2 tool.
 
 ## Figures Overview
 
