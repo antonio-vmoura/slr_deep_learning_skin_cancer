@@ -1,16 +1,16 @@
 # Supplementary Information
 
-This document contains the overview of the Supplementary Information and research datasets accompanying the manuscript "Deep Learning for Skin Cancer Image Analysis: A Systematic Literature Review", submitted to the Informatics in Medicine Unlocked.
+This document contains the overview of the Supplementary Information and research datasets accompanying the manuscript "Deep Learning for Skin Cancer Image Analysis: A Systematic Literature Review", submitted to Informatics in Medicine Unlocked.
 
 ## Files Overview
 
 **online_resource_1_prisma_checklist.pdf**
 
-* **Description:** Completed PRISMA 2020 Checklist. It details the page numbers and sections where each recommended reporting item is addressed within the systematic review.
+* **Description:** Description: Completed PRISMA 2020 Checklist. It details the specific manuscript section names where each recommended reporting item is addressed within the systematic review.
 
 **online_resource_2_excluded_reports.csv**
 
-* **Description:** Excluded and Unretrieved Studies. A complete list of the 76 reports that were formally excluded during the full-text eligibility assessment, including the specific reasons for exclusion.
+* **Description:** Unretrieved and Excluded Studies. A complete record of the 76 reports evaluated at the full-text stage that were not included in the final synthesis, comprising 11 reports that could not be retrieved and 65 reports that were formally excluded during full-text eligibility assessment, along with the specific reasons for non-inclusion.
 
 **online_resource_3_llm_prompt.pdf**
 
